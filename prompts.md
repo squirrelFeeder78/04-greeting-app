@@ -1,5 +1,5 @@
 ## Prompt 1
-Add only a button to the page. When the button is clicked, display a "Welcome!" message using the value of `userName`. 
+Add only a button to the page. When the button is clicked, display a "Welcome!" message below the button using the value of `userName`. 
 
 Add comments to help me understand the JS code.
 
