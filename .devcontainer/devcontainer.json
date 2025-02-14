@@ -17,7 +17,5 @@
         "editor.stickyScroll.enabled": false
       }
     }
-  },
-  "forwardPorts": [ 3000, 3001 ],
-  "postCreateCommand": "gh codespace ports visibility 3000:public 3001:public"
+  }
 }
