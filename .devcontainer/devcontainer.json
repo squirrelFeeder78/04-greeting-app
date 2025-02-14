@@ -17,5 +17,6 @@
         "editor.stickyScroll.enabled": false
       }
     }
-  }
+  },
+  "forwardPorts": [ 3000, 3001 ]
 }
