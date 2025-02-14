@@ -15,8 +15,7 @@
         "editor.detectIndentation": false,
         "editor.wordWrap": "on",
         "editor.stickyScroll.enabled": false
-      },
-      "appPort": [ 3000, 3001 ]
+      }
     }
   }
 }
